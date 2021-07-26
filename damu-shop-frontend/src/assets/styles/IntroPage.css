@@ -1,0 +1,45 @@
+.card-item{
+    width: 200px;
+    height: 250px;
+    border: 1px solid #bbbb;
+    border-radius: 20px;
+    margin: 10px;
+    text-align: center;
+    padding: 20px;
+    display: inline-table;
+}
+
+h5{
+    margin-bottom: 30px;
+}
+
+.col-md-10{
+    border-left: 1px solid #bbbb;
+}
+
+.row{
+    min-height: 90vh;
+}
+
+.container{
+    padding: 5%;
+    text-align: center;
+}
+
+.container-1{
+    padding-left: 20px;
+    padding-top: 40px;
+}
+
+h3{
+    margin-bottom: 5%;
+}
+
+.login {
+    margin-left: 20px;
+}
+
+nav{
+    border-bottom: 1px solid #bbbb;
+}
+

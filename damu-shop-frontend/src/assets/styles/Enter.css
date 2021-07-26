@@ -1,0 +1,54 @@
+.signIn{
+    height: 100vh;
+    text-align: center;
+    padding-top: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    margin-bottom: 80px;
+    margin-top: 30px;
+    font-size: 38px;
+}
+
+.container {
+    display: block;
+    justify-content: center;
+    width: 700px;
+    text-align: center;
+}
+
+.card{
+    width: 600px;
+    min-height: 400px;
+    margin-top: 30px;
+    border: none;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    border: 1px solid #bbb;
+    border-radius: 20px;
+    text-align: center;
+    align-items: center;
+}
+
+p{
+    font-size: 14px;
+}
+
+.row{
+    justify-content:right; 
+    text-align:right;
+    max-height: 400px;
+}
+
+button {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+input{
+    width: 60%;
+    margin-bottom: 20px;
+}

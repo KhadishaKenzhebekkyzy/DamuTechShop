@@ -1,0 +1,8 @@
+-- INSERT INTO categories(category_name) VALUES('Смартфоны');
+-- INSERT INTO categories(category_name) VALUES('Ноутбуки');
+-- INSERT INTO categories(category_name) VALUES('Бытовая техника');
+-- INSERT INTO categories(category_name) VALUES('Мебель');
+-- insert into items(item_name, category_id, item_count, item_price) values('Смартфон Apple iPhone 11 128GB Black', 1, 10, 374990);
+-- insert into items(item_name, category_id, item_count, item_price) values('Смартфон Apple iPhone 12 128GB Black', 1, 10, 404990);
+-- insert into items(item_name, category_id, item_count, item_price) values('Смартфон Apple iPhone 10 128GB Black', 1, 10, 354990);
+-- insert into items(item_name, category_id, item_count, item_price) values('Смартфон Apple iPhone 11 64GB Black', 1, 10, 274990);
